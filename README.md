@@ -1,5 +1,5 @@
-# 4-prompt-engineering_rag
-4기 4주차 프롬프트 엔지니어링 & RAG
+# 4-prompt/context-engineering_rag
+5기 4주차 프롬프트 엔지니어링 & RAG
 
 ## 제출 방법
 
