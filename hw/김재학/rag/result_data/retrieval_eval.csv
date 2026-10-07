@@ -1,0 +1,11 @@
+﻿FAQ,기대 문서,Top1 일치,Top3 포함,Top1 distance
+파이썬은 어떤 언어인가요?,faq/general.html,True,True,0.25
+파이썬은 원래 왜 만들어졌나요?,faq/general.html,True,True,0.2641
+파이썬은 어디에 쓰기 좋은가요?,faq/general.html,True,True,0.2999
+문자열을 숫자로 바꾸려면 어떻게 하나요?,faq/programming.html,True,True,0.3885
+숫자를 문자열로 바꾸려면 어떻게 하나요?,faq/programming.html,True,True,0.3857
+리스트와 튜플을 서로 바꾸려면 어떻게 하나요?,faq/programming.html,False,True,0.3472
+리스트에서 중복을 제거하려면 어떻게 하나요?,faq/programming.html,True,True,0.3693
+여러 모듈에서 전역 변수를 공유하려면 어떻게 하나요?,faq/programming.html,True,True,0.3538
+파이썬에서 객체를 복사하려면 어떻게 하나요?,faq/programming.html,True,True,0.3872
+예외 처리는 어떻게 하나요?,tutorial/errors.html,True,True,0.3067
