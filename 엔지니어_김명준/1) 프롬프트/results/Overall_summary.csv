@@ -1,0 +1,6 @@
+﻿실험,응답 수
+A. Role Prompting,4
+B. Few-shot,20
+C. CoT,10
+D. Temperature/Top-p,18
+E. Prompt Injection,5

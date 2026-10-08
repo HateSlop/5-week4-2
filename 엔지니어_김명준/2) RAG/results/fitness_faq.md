@@ -1,0 +1,119 @@
+# 헬스인을 위한 운동 지식 FAQ
+
+CDC 및 미국 보건복지부 공개 자료를 기반으로 생성한 FAQ입니다.
+
+## Q1. 헬스 초보자는 일주일에 근력운동을 몇 번 해야 하나요?
+
+헬스 초보자는 일주일에 2회 이상의 근력운동을 해야 합니다. 이는 모든 주요 근육군(다리, 엉덩이, 등, 복부, 가슴, 어깨, 팔)을 포함하는 운동을 의미합니다[자료 1].
+
+**검색된 원천 자료:**
+
+- https://www.cdc.gov/physical-activity-basics/guidelines/adults.html
+- https://www.cdc.gov/physical-activity-basics/adding-adults/index.html
+
+## Q2. 성인은 일주일에 유산소운동을 얼마나 해야 하나요?
+
+성인은 일주일에 150분의 중강도 유산소 운동을 하거나, 75분의 고강도 유산소 운동을 해야 합니다. 이 두 가지를 혼합한 경우에도 동일한 시간만큼 운동하면 됩니다. 또한, 주 2일 이상 모든 주요 근육군을 사용하는 근력 강화 운동도 필요합니다 [자료 1][자료 3].
+
+**검색된 원천 자료:**
+
+- https://www.cdc.gov/physical-activity-basics/guidelines/adults.html
+- https://www.cdc.gov/physical-activity-basics/adding-adults/index.html
+
+## Q3. 근력운동할 때 어떤 근육들을 훈련해야 하나요?
+
+근력운동을 할 때는 주요 근육 그룹인 다리, 엉덩이, 등, 가슴, 복부, 어깨, 팔을 모두 훈련해야 합니다. 이러한 근육 그룹을 포함하는 운동을 통해 전신의 근력을 강화할 수 있습니다 [자료 2].
+
+**검색된 원천 자료:**
+
+- https://www.cdc.gov/physical-activity-basics/adding-adults/what-counts.html
+- https://www.cdc.gov/physical-activity-basics/guidelines/index.html
+
+## Q4. 중강도 운동과 고강도 운동은 어떻게 다른가요?
+
+중강도 운동과 고강도 운동의 차이는 운동의 강도에 있습니다. 중강도 운동은 일반적으로 심박수가 증가하고 약간 숨이 차는 정도의 활동을 포함하며, 예를 들어 빠른 걷기와 같은 운동이 이에 해당합니다. 반면, 고강도 운동은 심박수가 더 많이 증가하고 숨이 차는 정도가 더 심한 활동으로, 조깅이나 달리기와 같은 운동이 포함됩니다. 
+
+또한, 1분의 고강도 운동은 약 2분의 중강도 운동과 비슷한 효과를 가진다고 합니다[자료 1]. 운동의 강도는 개인의 체력 수준에 따라 다르게 느껴질 수 있으며, 각자의 능력에 맞는 신체 활동을 하는 것이 중요합니다[자료 1].
+
+**검색된 원천 자료:**
+
+- https://www.cdc.gov/physical-activity-basics/adding-adults/what-counts.html
+- https://www.cdc.gov/physical-activity-basics/guidelines/adults.html
+- https://www.cdc.gov/physical-activity-basics/adding-adults/index.html
+
+## Q5. 빠르게 걷기도 유산소운동에 포함되나요?
+
+네, 빠르게 걷기는 유산소 운동에 포함됩니다. [자료 1]에 따르면, 중간 강도의 유산소 활동으로서 빠르게 걷기가 언급되고 있습니다.
+
+**검색된 원천 자료:**
+
+- https://www.cdc.gov/physical-activity-basics/guidelines/index.html
+- https://www.cdc.gov/physical-activity-basics/adding-adults/index.html
+- https://www.cdc.gov/physical-activity-basics/adding-adults/what-counts.html
+
+## Q6. 근력운동은 어느 정도 힘들게 해야 하나요?
+
+근력운동은 반복을 추가로 할 수 없을 정도로 힘들게 해야 건강상의 이점을 얻을 수 있습니다. 일반적으로 8-12회의 반복을 하나의 세트로 하며, 최소한 한 세트의 근력 강화 활동을 수행하는 것이 좋습니다. 더 많은 이점을 원한다면 두 세트 또는 세 세트를 수행하는 것이 권장됩니다. 이 활동은 다리, 엉덩이, 등, 가슴, 복부, 어깨, 팔 등 주요 근육 그룹을 모두 포함해야 합니다[자료 1].
+
+**검색된 원천 자료:**
+
+- https://www.cdc.gov/physical-activity-basics/adding-adults/what-counts.html
+
+## Q7. 유산소운동과 웨이트 트레이닝을 함께 해도 되나요?
+
+네, 유산소 운동과 웨이트 트레이닝을 함께 하는 것은 가능합니다. 예를 들어, 주간 운동 계획에 유산소 운동과 근력 강화 활동을 혼합하여 포함할 수 있습니다. [자료 2]에서는 유산소 운동과 근력 강화 운동을 조합한 다양한 운동 예시를 제시하고 있습니다. 따라서 두 가지 유형의 운동을 함께 수행하는 것은 건강에 도움이 될 수 있습니다.
+
+**검색된 원천 자료:**
+
+- https://www.cdc.gov/physical-activity-basics/adding-adults/what-counts.html
+- https://www.cdc.gov/physical-activity-basics/adding-adults/index.html
+
+## Q8. 일주일 운동 계획은 어떻게 세울 수 있나요?
+
+일주일 운동 계획을 세우는 방법은 다음과 같습니다:
+
+1. **운동 목표 설정**: 주당 150분의 중간 강도의 유산소 운동과 2일의 근력 강화 운동을 목표로 설정합니다.
+
+2. **운동 종류 선택**: 자신이 즐길 수 있는 운동을 선택합니다. 예를 들어, 빠르게 걷기, 조깅, 웨이트 트레이닝 등이 있습니다.
+
+3. **주간 운동 일정 예시**:
+   - **일요일**: 30분 빠른 걷기
+   - **월요일**: 30분 빠른 걷기
+   - **화요일**: 30분 빠른 걷기
+   - **수요일**: 웨이트 트레이닝
+   - **목요일**: 30분 빠른 걷기
+   - **금요일**: 30분 빠른 걷기
+   - **토요일**: 웨이트 트레이닝
+
+이와 같은 계획을 통해 주당 권장 운동량을 충족할 수 있습니다[자료 1].
+
+**검색된 원천 자료:**
+
+- https://www.cdc.gov/physical-activity-basics/adding-adults/index.html
+
+## Q9. 운동을 오랫동안 쉬었다면 어떻게 시작해야 하나요?
+
+운동을 오랫동안 쉬었다면, 천천히 시작하는 것이 중요합니다. 다음과 같은 방법을 고려해 보세요:
+
+1. **점진적인 증가**: 처음에는 가벼운 운동부터 시작하고, 점차적으로 운동의 강도를 높여가세요. 예를 들어, 빠른 걷기와 같은 중간 강도의 운동으로 시작한 후, 점차 조깅과 같은 더 강한 운동으로 전환할 수 있습니다[자료 2].
+
+2. **주기적인 운동**: 일주일에 최소 2일 이상 근력 운동을 포함시키는 것이 좋습니다. 근력 운동은 모든 주요 근육 그룹을 대상으로 해야 하며, 8-12회의 반복을 1세트로 하여 최소 1세트를 수행하는 것이 권장됩니다[자료 1].
+
+3. **활동의 다양성**: 집, 지역 사회, 체육관 등 다양한 장소에서 활동할 수 있습니다. 예를 들어, 체중을 이용한 운동(푸시업, 스쿼트 등)이나 저항 밴드를 이용한 운동도 좋은 선택입니다[자료 1].
+
+4. **의사와 상담**: 만약 만성 질환의 병력이 있다면, 운동을 시작하기 전에 의사와 상담하는 것이 좋습니다[자료 2].
+
+이러한 방법들을 통해 안전하게 운동을 재개할 수 있습니다.
+
+**검색된 원천 자료:**
+
+- https://www.cdc.gov/physical-activity-basics/adding-adults/what-counts.html
+
+## Q10. 운동 시간이 부족해도 효과를 얻을 수 있나요?
+
+운동 시간이 부족하더라도 어떤 형태의 신체 활동을 하는 것은 건강에 이로운 효과를 가져올 수 있습니다. 앉아 있는 시간을 줄이고, 적어도 중간 강도 또는 격렬한 강도의 신체 활동을 조금이라도 하는 것이 건강에 도움이 됩니다. 따라서 운동 시간이 부족하더라도 가능한 만큼 활동을 늘리는 것이 중요합니다[자료 2].
+
+**검색된 원천 자료:**
+
+- https://www.cdc.gov/physical-activity-basics/adding-adults/what-counts.html
+- https://www.cdc.gov/physical-activity-basics/guidelines/adults.html
