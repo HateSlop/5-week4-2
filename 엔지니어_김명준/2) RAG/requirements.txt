@@ -1,0 +1,10 @@
+openai
+python-dotenv
+chromadb
+beautifulsoup4
+requests
+pandas
+numpy
+matplotlib
+ipykernel
+jupyter
